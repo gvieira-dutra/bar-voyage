@@ -64,7 +64,7 @@ To set up the project locally, follow these steps.
 Below you will see a not extensive collection of screenshots to give a feel of the app.
 
 <p align="center">
-  <img src="./assets/public//logo.png" alt="App Logo" width="200" style="margin-right: 20px;"/>
+  <img src="./assets/public//logo2.png" alt="App Logo" width="200" style="margin-right: 20px;"/>
   <img src="./assets/public/login.png" alt="Registration Page" width="200" style="margin-right: 20px;"/>
   <img src="./assets/public/home.png" alt="Login Page" width="200"/>
 </p>
