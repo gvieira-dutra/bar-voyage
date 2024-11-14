@@ -1,0 +1,385 @@
+{
+  "bars": {
+    "bar1": {
+      "name": "The Dancing Goat",
+      "picture": "https://media.gettyimages.com/id/1214543593/photo/stylish-bar.jpg?s=612x612&w=gi&k=20&c=2UozdzmnC3gib6tdbBPuAWGTiz34GsL7TIzVWwWEJds=",
+      "address": {
+        "country": "Belgium",
+        "city": "Anytown",
+        "streetName": "Main St",
+        "streetNumber": "123",
+        "postalCode": "10001"
+      },
+      "location": {
+        "lat": 40.7128,
+        "lon": -74.006
+      },
+      "socialMedia": {
+        "instagram": "https://instagram.com/dancinggoat",
+        "facebook": "https://facebook.com/dancinggoat"
+      },
+      "description": "A lively bar known for its great dance floor and vibrant atmosphere.",
+      "isFavorite": true,
+      "vibe": {
+        "dancing": {
+          "totalVotes": 16,
+          "numberOfVotes": 4
+        },
+        "classic": {
+          "totalVotes": 12,
+          "numberOfVotes": 3
+        },
+        "chill": {
+          "totalVotes": 20,
+          "numberOfVotes": 5
+        }
+      },
+      "overallReviews": {
+        "totalVotes": 48,
+        "numberOfVotes": 12
+      }
+    },
+    "bar2": {
+      "name": "Jazz Lounge",
+      "picture": "https://media.gettyimages.com/id/1214543593/photo/stylish-bar.jpg?s=612x612&w=gi&k=20&c=2UozdzmnC3gib6tdbBPuAWGTiz34GsL7TIzVWwWEJds=",
+      "address": {
+        "country": "Belgium",
+        "city": "Othertown",
+        "streetName": "Elm St",
+        "streetNumber": "456",
+        "postalCode": "20002"
+      },
+      "location": {
+        "lat": 34.0522,
+        "lon": -118.2437
+      },
+      "socialMedia": {
+        "instagram": "https://instagram.com/jazzlounge",
+        "facebook": "https://facebook.com/jazzlounge"
+      },
+      "description": "A sophisticated spot offering smooth jazz and a cozy atmosphere.",
+      "vibe": {
+        "dancing": {
+          "totalVotes": 20,
+          "numberOfVotes": 5
+        },
+        "classic": {
+          "totalVotes": 18,
+          "numberOfVotes": 6
+        },
+        "chill": {
+          "totalVotes": 15,
+          "numberOfVotes": 3
+        }
+      },
+      "overallReviews": {
+        "totalVotes": 53,
+        "numberOfVotes": 14
+      }
+    },
+    "bar3": {
+      "name": "Retro Pub",
+      "picture": "https://media.gettyimages.com/id/1214543593/photo/stylish-bar.jpg?s=612x612&w=gi&k=20&c=2UozdzmnC3gib6tdbBPuAWGTiz34GsL7TIzVWwWEJds=",
+      "address": {
+        "country": "Belgium",
+        "city": "Sometown",
+        "streetName": "Oak St",
+        "streetNumber": "789",
+        "postalCode": "30003"
+      },
+      "location": {
+        "lat": 41.8781,
+        "lon": -87.6298
+      },
+      "socialMedia": {
+        "instagram": "https://instagram.com/retropub",
+        "facebook": "https://facebook.com/retropub"
+      },
+      "description": "A throwback bar with a retro vibe and nostalgic tunes.",
+      "vibe": {
+        "dancing": {
+          "totalVotes": 25,
+          "numberOfVotes": 7
+        },
+        "classic": {
+          "totalVotes": 10,
+          "numberOfVotes": 2
+        },
+        "chill": {
+          "totalVotes": 22,
+          "numberOfVotes": 4
+        }
+      },
+      "overallReviews": {
+        "totalVotes": 57,
+        "numberOfVotes": 13
+      }
+    },
+    "bar4": {
+      "name": "Skyline Bar",
+      "picture": "https://hips.hearstapps.com/hmg-prod/images/thenines-1221-lizclayman-020-2-1-patty-1644334985.jpg",
+      "address": {
+        "country": "Belgium",
+        "city": "Yourtown",
+        "streetName": "Pine St",
+        "streetNumber": "101",
+        "postalCode": "40004"
+      },
+      "location": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      },
+      "socialMedia": {
+        "instagram": "https://instagram.com/skylinebar",
+        "facebook": "https://facebook.com/skylinebar"
+      },
+      "description": "A chic bar with stunning views of the city skyline.",
+      "vibe": {
+        "dancing": {
+          "totalVotes": 30,
+          "numberOfVotes": 6
+        },
+        "classic": {
+          "totalVotes": 24,
+          "numberOfVotes": 8
+        },
+        "chill": {
+          "totalVotes": 18,
+          "numberOfVotes": 3
+        }
+      },
+      "overallReviews": {
+        "totalVotes": 72,
+        "numberOfVotes": 17
+      }
+    },
+    "bar5": {
+      "name": "Beachside Tavern",
+      "picture": "https://static01.nyt.com/images/2020/07/07/well/well-bar-getty/well-bar-getty-superJumbo.jpg",
+      "address": {
+        "country": "Belgium",
+        "city": "Beachtown",
+        "streetName": "Ocean Ave",
+        "streetNumber": "202",
+        "postalCode": "50005"
+      },
+      "location": {
+        "lat": 36.7783,
+        "lon": -119.4179
+      },
+      "socialMedia": {
+        "instagram": "https://instagram.com/beachsidetavern",
+        "facebook": "https://facebook.com/beachsidetavern"
+      },
+      "description": "A relaxed tavern with a seaside view and beachy vibes.",
+      "vibe": {
+        "dancing": {
+          "totalVotes": 28,
+          "numberOfVotes": 7
+        },
+        "classic": {
+          "totalVotes": 21,
+          "numberOfVotes": 7
+        },
+        "chill": {
+          "totalVotes": 25,
+          "numberOfVotes": 5
+        }
+      },
+      "overallReviews": {
+        "totalVotes": 74,
+        "numberOfVotes": 19
+      }
+    },
+    "bar6": {
+      "name": "Mountain Lodge",
+      "picture": "https://media.gettyimages.com/id/1214543593/photo/stylish-bar.jpg?s=612x612&w=gi&k=20&c=2UozdzmnC3gib6tdbBPuAWGTiz34GsL7TIzVWwWEJds=",
+      "address": {
+        "country": "Belgium",
+        "city": "Highland",
+        "streetName": "Mountain Rd",
+        "streetNumber": "303",
+        "postalCode": "60006"
+      },
+      "location": {
+        "lat": 39.7392,
+        "lon": -104.9903
+      },
+      "socialMedia": {
+        "instagram": "https://instagram.com/mountainlodge",
+        "facebook": "https://facebook.com/mountainlodge"
+      },
+      "description": "A rustic lodge with a cozy atmosphere and mountain views.",
+      "vibe": {
+        "dancing": {
+          "totalVotes": 20,
+          "numberOfVotes": 4
+        },
+        "classic": {
+          "totalVotes": 14,
+          "numberOfVotes": 4
+        },
+        "chill": {
+          "totalVotes": 30,
+          "numberOfVotes": 6
+        }
+      },
+      "overallReviews": {
+        "totalVotes": 64,
+        "numberOfVotes": 14
+      }
+    },
+    "bar7": {
+      "name": "Urban Bistro",
+      "picture": "https://media.gettyimages.com/id/1214543593/photo/stylish-bar.jpg?s=612x612&w=gi&k=20&c=2UozdzmnC3gib6tdbBPuAWGTiz34GsL7TIzVWwWEJds=",
+      "address": {
+        "country": "Belgium",
+        "city": "Metropolis",
+        "streetName": "City St",
+        "streetNumber": "404",
+        "postalCode": "70007"
+      },
+      "location": {
+        "lat": 34.0522,
+        "lon": -118.2437
+      },
+      "socialMedia": {
+        "instagram": "https://instagram.com/urbanbistro",
+        "facebook": "https://facebook.com/urbanbistro"
+      },
+      "description": "A trendy bistro with urban flair and a creative menu.",
+      "vibe": {
+        "dancing": {
+          "totalVotes": 18,
+          "numberOfVotes": 6
+        },
+        "classic": {
+          "totalVotes": 27,
+          "numberOfVotes": 9
+        },
+        "chill": {
+          "totalVotes": 12,
+          "numberOfVotes": 3
+        }
+      },
+      "overallReviews": {
+        "totalVotes": 57,
+        "numberOfVotes": 18
+      }
+    },
+    "bar8": {
+      "name": "Garden Pub",
+      "picture": "https://hips.hearstapps.com/hmg-prod/images/thenines-1221-lizclayman-020-2-1-patty-1644334985.jpg",
+      "address": {
+        "country": "Belgium",
+        "city": "Greentown",
+        "streetName": "Garden Ln",
+        "streetNumber": "505",
+        "postalCode": "80008"
+      },
+      "location": {
+        "lat": 47.6062,
+        "lon": -122.3321
+      },
+      "socialMedia": {
+        "instagram": "https://instagram.com/gardenpub",
+        "facebook": "https://facebook.com/gardenpub"
+      },
+      "description": "A cozy pub nestled in a lush garden setting.",
+      "vibe": {
+        "dancing": {
+          "totalVotes": 15,
+          "numberOfVotes": 5
+        },
+        "classic": {
+          "totalVotes": 19,
+          "numberOfVotes": 6
+        },
+        "chill": {
+          "totalVotes": 24,
+          "numberOfVotes": 4
+        }
+      },
+      "overallReviews": {
+        "totalVotes": 58,
+        "numberOfVotes": 15
+      }
+    },
+    "bar9": {
+      "name": "Whiskey Lounge",
+      "picture": "https://static01.nyt.com/images/2020/07/07/well/well-bar-getty/well-bar-getty-superJumbo.jpg",
+      "address": {
+        "country": "Belgium",
+        "city": "Spiritville",
+        "streetName": "Whiskey Blvd",
+        "streetNumber": "606",
+        "postalCode": "90009"
+      },
+      "location": {
+        "lat": 40.7128,
+        "lon": -74.006
+      },
+      "socialMedia": {
+        "instagram": "https://instagram.com/whiskeylounge",
+        "facebook": "https://facebook.com/whiskeylounge"
+      },
+      "description": "An intimate lounge specializing in fine whiskies and spirits.",
+      "vibe": {
+        "dancing": {
+          "totalVotes": 22,
+          "numberOfVotes": 6
+        },
+        "classic": {
+          "totalVotes": 17,
+          "numberOfVotes": 5
+        },
+        "chill": {
+          "totalVotes": 19,
+          "numberOfVotes": 4
+        }
+      },
+      "overallReviews": {
+        "totalVotes": 58,
+        "numberOfVotes": 15
+      }
+    },
+    "bar10": {
+      "name": "Downtown Dive",
+      "picture": "https://hips.hearstapps.com/hmg-prod/images/thenines-1221-lizclayman-020-2-1-patty-1644334985.jpg",
+      "address": {
+        "country": "Belgium",
+        "city": "Bigcity",
+        "streetName": "Downtown Ave",
+        "streetNumber": "707",
+        "postalCode": "10010"
+      },
+      "location": {
+        "lat": 40.7128,
+        "lon": -74.006
+      },
+      "socialMedia": {
+        "instagram": "https://instagram.com/downtowndive",
+        "facebook": "https://facebook.com/downtowndive"
+      },
+      "description": "A laid-back dive bar in the heart of downtown.",
+      "vibe": {
+        "dancing": {
+          "totalVotes": 19,
+          "numberOfVotes": 4
+        },
+        "classic": {
+          "totalVotes": 20,
+          "numberOfVotes": 5
+        },
+        "chill": {
+          "totalVotes": 24,
+          "numberOfVotes": 6
+        }
+      },
+      "overallReviews": {
+        "totalVotes": 63,
+        "numberOfVotes": 15
+      }
+    }
+  }
+}
